@@ -927,6 +927,7 @@ body {
     .bento {
         columns: 3;
     }
+}
 
 @media (max-width: 900px) {
     .nav-links,
